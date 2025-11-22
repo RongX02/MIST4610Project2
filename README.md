@@ -2,11 +2,11 @@
 # MIST 4610 Project 2 Group 7
 
 ## Group Members: 
-1. [Justus Nour](https://github.com/justusnour)
+1. [Rong Xin Hu](https://github.com/RongX02)
 
 2. [Jackson Boyer](https://github.com/Jackson9812)
    
-3. [Rong Xin Hu](https://github.com/RongX02)
+3. [Justus Nour](https://github.com/justusnour)
 
 4. [Trey Trotti](https://github.com/treytrotti)
 
